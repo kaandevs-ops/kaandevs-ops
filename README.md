@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" alt="Kaan Tekin — AI, Robotics & Autonomous Systems" width="100%" />
+  <img src="banner.png" alt="Kaan Tekin — AI, Robotics & Autonomous Systems" width="100%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Kaan</h1>

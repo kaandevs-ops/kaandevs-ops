@@ -62,14 +62,6 @@
 
 ---
 
-### 📌 Featured Project
-
-<a href="https://github.com/kaandevs-ops/smart-factory-orchestrator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaandevs-ops&repo=smart-factory-orchestrator&theme=default&hide_border=true" alt="smart-factory-orchestrator" />
-</a>
-
----
-
 ### 🌐 Connect with me
 
 <p align="left">

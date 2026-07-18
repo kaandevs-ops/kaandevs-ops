@@ -51,11 +51,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kaandevs-ops&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Kaan's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaandevs-ops&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaandevs-ops&hide_border=true" alt="GitHub streak" />
 </p>
 

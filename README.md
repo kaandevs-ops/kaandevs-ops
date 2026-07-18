@@ -1,23 +1,21 @@
-<p align="center">
-  <img src="banner.png" alt="Banner" width="100%">
-</p>
-
 <h1 align="center">Hi 👋, I'm Kaan</h1>
 <h3 align="center">Software Engineer focused on AI, Robotics & Autonomous Systems</h3>
 
-- 🔭 I'm currently working on [smart-factory-orchestrator](https://github.com/kaandevs-ops/smart-factory-orchestrator)
-- 🌱 I'm currently learning **AI, Robotics, Computer Vision, Autonomous Systems and Open Source Engineering Projects**
-- 📫 How to reach me: **kaantekin06@icloud.com**
+- 🔭 I’m currently working on [smart-factory-orchestrator](https://github.com/kaandevs-ops/smart-factory-orchestrator)
 
-<h3 align="left">💻 Connect with me:</h3>
+- 🌱 I’m currently learning **AI, Robotics, Computer Vision, Autonomous Systems and Open Source Engineering Projects**
 
+- 📫 How to reach me **kaantekin06@icloud.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:kaantekin06@icloud.com">
     <img src="https://img.shields.io/badge/Email-434d58.svg?logo=gmail&logoColor=white" alt="email"/>
 </a>
+</p>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-
+<h3 align="left">Languages and Tools:</h3>
 <p>
  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-434d58.svg?logo=python&logoColor=white"></a>
  <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-434d58.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -41,16 +39,5 @@
  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-434d58.svg?logo=figma&logoColor=white"></a>
  <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-434d58.svg?logo=adobephotoshop&logoColor=white"></a>
 </p>
-
-<!-- color -- 434d58 -->
-
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaandevs-ops&theme=dark&show_icons=true&icon_color=fff&include_all_commits=false&count_private=true&layout=compact&border_radius=0" style="height:185px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaandevs-ops&theme=dark&hide_border=false&icon_color=434d58&include_all_commits=false&count_private=true&layout=compact&border_radius=0" style="height:185px;">
-</div>
-
-<h3 align="left">📈 Activity Graph:</h3>
 
 [![Kaan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaandevs-ops&theme=merko&line=434d58)](https://github.com/kaandevs-ops)

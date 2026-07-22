@@ -1,6 +1,8 @@
 <div align="center">
 
-
+<div align="center">
+  <img src="banner.png" alt="Kaan Tekin — AI, Robotics & Autonomous Systems" width="100%" />
+</div>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=B388FF&center=true&vCenter=true&width=650&lines=Building+autonomous+systems+that+think;AI+%2B+Robotics+%2B+Computer+Vision;Currently+shipping%3A+smart-factory-orchestrator;Open-source+%7C+Turkey+%F0%9F%87%B9%F0%9F%87%B7" alt="Typing SVG" />
 

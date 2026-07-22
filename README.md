@@ -39,6 +39,9 @@ I approach engineering with a **product mindset**: systems should be reliable, o
 
 ---
 
+
+<img src="https://raw.githubusercontent.com/kaandevs-ops/kaandevs-ops/output/github-contribution-grid-snake-dark.svg" width="90%" />
+
 ## 🟣 Tech Stack
 
 <div align="center">
@@ -259,9 +262,6 @@ open_to:
 </div>
 
 ---
-
-
-<img src="https://raw.githubusercontent.com/kaandevs-ops/kaandevs-ops/output/github-contribution-grid-snake-dark.svg" width="90%" />
 
 <div align="center">
 

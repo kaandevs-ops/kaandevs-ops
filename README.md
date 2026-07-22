@@ -205,10 +205,6 @@ Designing and shipping production-grade AI and robotics systems, spanning orches
 ## 🟣 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kaandevs-ops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B388FF&icon_color=8A2BE2&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaandevs-ops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B388FF&text_color=c9d1d9" width="38%" />
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaandevs-ops&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=B388FF&currStreakLabel=B388FF" width="60%" />

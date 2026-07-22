@@ -10,8 +10,6 @@
 ![AI/Robotics](https://img.shields.io/badge/AI%20%26%20Robotics-3A2A5D?style=for-the-badge&logoColor=white)
 ![Location](https://img.shields.io/badge/Türkiye-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=icloud&logoColor=white)](mailto:kaantekin06@icloud.com)
 [![GitHub](https://img.shields.io/badge/GitHub-2E1A47-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaandevs-ops)
 
@@ -25,8 +23,6 @@
 
 ## 🟣 About Me
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/kaandevs-ops/kaandevs-ops/main/banner.png" alt="banner"/>
-
 I'm **Kaan**, a software engineer based in **Türkiye**, building intelligent systems at the intersection of **AI, robotics, and real-time data platforms**. My work centers on event-driven architectures, multi-LLM orchestration, computer vision, and autonomous decision-making — from factory-floor AGV coordination to real-time OSINT intelligence platforms tracking thousands of live signals.
 
 I approach engineering with a **product mindset**: systems should be reliable, observable, and genuinely useful — not just technically impressive.
@@ -38,8 +34,6 @@ I approach engineering with a **product mindset**: systems should be reliable, o
 - 📫 Reach me at **kaantekin06@icloud.com**
 
 **Open To:** AI/ML Engineering roles · Robotics & Autonomous Systems · Backend & Systems Engineering · Open-source collaboration
-
-<br clear="right"/>
 
 ---
 
@@ -208,28 +202,6 @@ Designing and shipping production-grade AI and robotics systems, spanning orches
 
 ---
 
-## 🟣 Certifications
-
-*(placeholder — add your certifications below, grouped by provider)*
-
-**AWS**
-<br/>
-![AWS](https://img.shields.io/badge/AWS%20Certification-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-**Oracle**
-<br/>
-![Oracle](https://img.shields.io/badge/Oracle%20Certification-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-**NPTEL**
-<br/>
-![NPTEL](https://img.shields.io/badge/NPTEL%20Certification-6A0DAD?style=flat-square&logoColor=white)
-
-**Cisco**
-<br/>
-![Cisco](https://img.shields.io/badge/Cisco%20Certification-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-
----
-
 ## 🟣 GitHub Analytics
 
 <div align="center">
@@ -245,31 +217,11 @@ Designing and shipping production-grade AI and robotics systems, spanning orches
 
 ---
 
-## 🟣 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kaandevs-ops&theme=discord&no-frame=true&margin-w=10&column=7" />
-
-</div>
-
----
-
 ## 🟣 Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaandevs-ops&theme=react-dark&bg_color=0D1117&color=B388FF&line=8A2BE2&point=C5A8FF" width="90%" />
-
-</div>
-
----
-
-## 🟣 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/kaandevs-ops/kaandevs-ops/output/github-contribution-grid-snake-dark.svg" width="90%" />
 
 </div>
 
@@ -304,9 +256,7 @@ open_to:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Email-kaantekin06%40icloud.com-4B0082?style=for-the-badge&logo=icloud&logoColor=white)](mailto:kaantekin06@icloud.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-kaandevs--ops-2E1A47?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaandevs-ops)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
 

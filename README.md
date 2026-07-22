@@ -260,6 +260,9 @@ open_to:
 
 ---
 
+
+<img src="https://raw.githubusercontent.com/kaandevs-ops/kaandevs-ops/output/github-contribution-grid-snake-dark.svg" width="90%" />
+
 <div align="center">
 
 *"Systems that think should also think about the people who depend on them."*

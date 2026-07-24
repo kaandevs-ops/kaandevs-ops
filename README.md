@@ -207,17 +207,6 @@ Designing and shipping production-grade AI and robotics systems, spanning orches
 
 ---
 
-## 🟣 GitHub Analytics
-
-<div align="center">
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaandevs-ops&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=B388FF&currStreakLabel=B388FF" width="60%" />
-
-</div>
-
----
-
 ## 🟣 Contribution Activity
 
 <div align="center">

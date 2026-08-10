@@ -51,15 +51,15 @@ I care more about a project actually working end-to-end than about it looking im
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
 
 **Backend & Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,dotnet,mysql,sqlite,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,mysql,sqlite&theme=dark" />
 
 **Cloud, DevOps & Tooling**
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,arduino,unity,unreal&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,arduino,unity,unreal&theme=dark" />
 
 </div>
 

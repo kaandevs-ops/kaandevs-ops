@@ -59,7 +59,7 @@ I care more about a project actually working end-to-end than about it looking im
 
 **Cloud, DevOps & Tooling**
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,arduino,unity,unreal,blender&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,arduino,unity,unreal&theme=dark" />
 
 </div>
 

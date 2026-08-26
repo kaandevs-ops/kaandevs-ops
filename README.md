@@ -158,16 +158,6 @@ open_to:
 
 ---
 
-## 🟣 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaandevs-ops&theme=react-dark&bg_color=0D1117&color=B388FF&line=8A2BE2&point=C5A8FF" width="90%" />
-
-</div>
-
----
-
 ## 🟣 Connect
 
 <div align="center">

@@ -139,25 +139,6 @@ A Turkish-language coding assistant that runs fully offline on Apple MPS using Q
 
 ---
 
-## 🟣 Currently
-
-```yaml
-building:
-  - smart-factory-orchestrator
-  - SENTINEL
-
-learning:
-  - multi-agent LLM orchestration
-  - sensor fusion basics
-  - digital twin simulation
-
-open_to:
-  - internships / junior roles in AI, ML, or backend
-  - open-source collaboration
-```
-
----
-
 ## 🟣 Connect
 
 <div align="center">

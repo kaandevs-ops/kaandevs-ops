@@ -68,17 +68,17 @@ I enjoy working on projects where multiple systems have to work together — fro
 ## 🟣 What I Work With
 
 ```text
-Core
-  Python · C# · TypeScript · Java
+Languages
+  Python · C# · TypeScript · Java · C++ · Kotlin
 
 AI / ML
-  LLM-integrated apps · RAG · Computer vision · Local/offline inference
+  LLM applications · RAG · Computer vision · Local / offline inference
 
-Systems
-  Event-driven architecture · Real-time data pipelines · Simulation
+Backend & Systems
+  REST APIs · Event-driven architecture · Real-time data pipelines · Automation
 
-Still learning
-  Sensor fusion · Robotics · Distributed systems
+Currently exploring
+  Robotics · Sensor fusion · Distributed systems · Digital twins
 ```
 
 ---

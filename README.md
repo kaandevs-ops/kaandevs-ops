@@ -4,7 +4,7 @@
   <img src="banner.png" alt="Kaan Tekin — AI, Robotics & Autonomous Systems" width="100%" />
 </div>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=B388FF&center=true&vCenter=true&width=650&lines=Information+Systems+%26+Technologies+Student;AI+%2B+Robotics+%2B+Computer+Vision;Currently+building%3A+smart-factory-orchestrator;Freelance+%7C+Open-source+%7C+Türkiye" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=B388FF&center=true&vCenter=true&width=650&lines=Information+Systems+%26+Technologies+Student;AI+%2B+Robotics+%2B+Computer+Vision;Currently+building%3A+smart-factory-orchestrator;Freelance+%7C+Open-source+%7C+Türkiye+%F0%9F%87%B9%F0%9F%87%B7" alt="Typing SVG" />
 
 <br/>
 

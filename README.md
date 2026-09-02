@@ -8,7 +8,7 @@
 
 <br/>
 
-![Student](https://img.shields.io/badge/CS%20Student-2C1E4A?style=for-the-badge&logoColor=white)
+![Student](https://img.shields.io/badge/Information%20Systems%20%26%20Technologies%20Student-2C1E4A?style=for-the-badge&logoColor=white)
 ![AI/Robotics](https://img.shields.io/badge/AI%20%26%20Robotics-3A2A5D?style=for-the-badge&logoColor=white)
 ![Location](https://img.shields.io/badge/Türkiye-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white)
 

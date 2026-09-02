@@ -25,17 +25,17 @@
 
 ## 🟣 About Me
 
-I'm **Kaan**, a student in Türkiye studying Information Systems & Technologies, and I spend most of my free time building things — mostly around AI, backend systems, and anything with a "how does this actually work" itch. I like projects that combine a few hard problems at once: an event pipeline that has to stay in sync, a model that has to make a decision in real time, a map that has to update without lagging out.
+I'm **Kaan**, an Information Systems & Technologies student in Türkiye focused on building practical software systems around **AI, backend development, robotics, and real-time data**.
 
-I care more about a project actually working end-to-end than about it looking impressive on paper. If something's half-broken, I'd rather say so than dress it up.
+I enjoy working on projects where multiple systems have to work together — from AI-powered applications and event-driven backends to real-time data pipelines and simulation.
 
-- 🔭 Working on **smart-factory-orchestrator** — an event-driven orchestration platform exploring predictive maintenance, AGV coordination, and digital twin simulation
-- 🌱 Learning more about **AI systems, robotics, and computer vision** as I go
-- 🛰️ Curious about **embedded systems and sensor fusion** — still early days here
-- 💬 Comfortable building full-stack projects with AI pieces wired in
+- 🔭 Currently building **smart-factory-orchestrator** — an event-driven platform for industrial orchestration, predictive maintenance, AGV coordination, and digital twin simulation
+- 🤖 Building and experimenting with **AI-powered software, local LLMs, computer vision, and automation**
+- 🛰️ Exploring **robotics, embedded systems, and sensor fusion**
+- 🛠️ Interested in building **end-to-end software systems** that solve practical problems
 - 📫 kaantekin06@icloud.com
 
-**Open to:** internships or junior roles in AI/ML, backend, or robotics · open-source collaboration · people who want to build something together
+**Open to:** freelance software projects, AI/backend work, internships, junior opportunities, and open-source collaboration.
 
 ---
 

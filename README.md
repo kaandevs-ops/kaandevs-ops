@@ -89,7 +89,7 @@ Currently exploring
 <summary><b>🏭 smart-factory-orchestrator</b></summary>
 <br/>
 
-An event-driven orchestration platform I'm building to explore predictive maintenance, AGV coordination, and digital twin simulation on one shared backbone.
+An actively developed event-driven orchestration platform exploring predictive maintenance, AGV coordination, and digital twin simulation through a shared software architecture.
 
 | | |
 |---|---|
